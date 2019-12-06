@@ -1,2 +1,2 @@
 # Titanic
-Prediction titanic survivors
+Predicting titanic survivors
